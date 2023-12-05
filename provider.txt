@@ -1,0 +1,10 @@
+provider "azurerm" {
+features {}
+skip_provider_registration = "true"
+environment = "public"
+subscription_id = "1aff628f-feed-48fb-963a-1af8b0b2ec39"
+client_id = "da7df8e7-4077-4ea8-b689-3ba5454489dd"
+client_secret = "Rga8Q~W4Y9Jy5x3VUCZgUCKuVZ5KiR.cKzUbTb62"
+tenant_id = "8706a5cd-2dfb-4fd0-ace0-b0c05e6634b4"
+
+}
